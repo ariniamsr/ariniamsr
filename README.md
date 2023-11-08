@@ -11,3 +11,7 @@ Perkenalkan saya **Arini Arumsari** Lulus dari Teknik kimia dengan minat tinggi 
 - 👩‍💻 Programming Library: NumPy, Pandas, Streamlit, Sckit-Learn, matplotlib
 - 📫 How to reach me:
   **[LinkedIn](https://www.linkedin.com/in/ariniarumsari/)**
+
+  
+  ![image](https://github.com/ariniamsr/ariniamsr/blob/main/Untitled.png)
+
