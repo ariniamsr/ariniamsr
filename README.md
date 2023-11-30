@@ -6,7 +6,7 @@ Perkenalkan saya **Arini Arumsari** Lulusan dari Teknik kimia dengan minat tingg
 
 ---
 
-- 📊 I'm interested in  **Data Scientist** and **Data Analyst**
+- 📊 I'm interested in  **Data Science** and **Data Analyst**
 - 🌱 I’m currently learning **Python**, **Data Visualization** and **PostreSQL**
 - 👩‍💻 Programming Library: NumPy, Pandas, Streamlit, Sckit-Learn, matplotlib
 - 📫 How to reach me:
