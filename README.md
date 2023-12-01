@@ -1,6 +1,6 @@
 ### Hi there 👋👒
 
-Perkenalkan saya **Arini Arumsari** Lulusan dari Teknik kimia dengan minat tinggi pada **Data Scientist** dan **Data Analyst**. Mengejar pengalaman dan pengetahuan di bidang teknologi melalui bootcamp, kursus, kompetisi, dan proyek. Saya pernah mengikuti bootcamp yang diadakan oleh Rakamin Academy selama kurang lebih 6 bulan dengan mendapatkan predikat "Excellent Grade".
+Perkenalkan saya **Arini Arumsari** Lulusan dari Teknik kimia dengan minat tinggi pada **Data Science** dan **Data Analyst**. Mengejar pengalaman dan pengetahuan di bidang teknologi melalui bootcamp, kursus, kompetisi, dan proyek. Saya pernah mengikuti bootcamp yang diadakan oleh Rakamin Academy selama kurang lebih 6 bulan dengan mendapatkan predikat "Excellent Grade".
 
 [![GitHub Arin](https://img.shields.io/github/followers/ariniamsr?label=follow&style=social)](https://github.com/ariniamsr)
 
