@@ -4,6 +4,8 @@ Perkenalkan saya **Arini Arumsari** Lulusan dari Teknik kimia dengan minat tingg
 
 [![GitHub Arin](https://img.shields.io/github/followers/ariniamsr?label=follow&style=social)](https://github.com/ariniamsr)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ariniamsr&label=Profile%20views&color=0e75b6&style=flat" alt="ariniamsr" /> </p>
+
 ---
 
 - 📊 I'm interested in  **Data Science** and **Data Analyst**
