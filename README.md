@@ -17,7 +17,7 @@ Perkenalkan saya **Arini Arumsari** Lulusan dari Teknik kimia dengan minat tingg
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ariniarumsari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ariniarumsari" height="30" width="40" /></a>
-<a href="https://kaggle.com/okyhariawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ariniarumsari" height="30" width="40" /></a>
+<a href="https://kaggle.com/ariniarumsari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ariniarumsari" height="30" width="40" /></a>
 </p>
 
   **[LinkedIn](https://www.linkedin.com/in/ariniarumsari/)**
