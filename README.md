@@ -17,7 +17,7 @@ Perkenalkan saya **Arini Arumsari** Lulusan dari Teknik kimia dengan minat tingg
 <a href="https://linkedin.com/in/ariniarumsari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ariniarumsari" height="30" width="40" /></a>
 <a href="https://kaggle.com/ariniarumsari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ariniarumsari" height="30" width="40" /></a>
 </p>
-<a href="https://public.tableau.com/ariniamsr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/public.tableau.svg" alt="ariniarumsari" height="30" width="40" /></a>
+<a href="https://public.tableau.com/app/search/vizzes/ariniamsr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/public.tableau.svg" alt="ariniarumsari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
